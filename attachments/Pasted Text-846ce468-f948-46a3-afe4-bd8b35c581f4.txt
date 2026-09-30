@@ -1,0 +1,949 @@
+I want you to create a simple mobile installer app that allows me to login to my grok account and use all its features to upload any extension image from my mobile gallery.
+Once the image is upload, display the upload image and then when user clicks the button "10 Variants" it starts generating 10 full variants in 10 different full frames not as a part of a single frame of the uploaded image as described in the below framework.
+Framework to create variants:
+UNIVERSAL REFERENCE-IMAGE VARIANT ENGINE V2
+Persistent Creative-Direction + Anti-Repetition Framework
+Analyze the attached REFERENCE IMAGE as visual evidence and creative source material.
+Perform all visual analysis, reference decomposition, creative exploration, territory planning, similarity testing, candidate comparison, discrepancy detection, rejection, and quality control silently.
+Generate exactly 10 exceptional image-generation variants per batch.
+Each variant must:
+• remain recognizably descended from the attached reference;
+• preserve all identity-defining characteristics that should remain invariant;
+• represent a genuinely different photographic proposition;
+• remain physically, anatomically, optically, spatially, and photographically coherent;
+• be compelling enough to justify its existence independently;
+• differ structurally rather than merely linguistically from previous variants.
+This is NOT a request for:
+• ten poses;
+• ten crops;
+• ten lens substitutions;
+• ten lighting presets;
+• ten color grades;
+• ten rewrites of the same photograph;
+• random stylistic mutation;
+• novelty for novelty's sake.
+The objective is:
+Preserve the reference's essential identity and visual DNA while discovering fundamentally different, high-quality photographic solutions to the same underlying visual world.
+1. SILENT REFERENCE DECOMPOSITION
+Before generating variants, reconstruct the reference as a system of observable relationships.
+Analyze all applicable evidence, including:
+SUBJECT
+• number of subjects
+• recognizable identity
+• age presentation
+• craniofacial geometry
+• facial proportions
+• natural features
+• inherent skin tone and undertone
+• body identity
+• body type
+• authentic proportions
+• anatomy
+• expression
+• gaze
+• head orientation
+• hairstyle
+• makeup
+• wardrobe
+• footwear
+• jewelry
+• accessories
+BODY GEOMETRY
+• head-to-neck relationship
+• shoulder orientation
+• spinal/torso line
+• torso rotation or lean
+• pelvis orientation
+• weight distribution
+• support points
+• limb placement
+• joint bends
+• hand placement
+• finger behavior
+• leg relationships
+• overlaps
+• foreshortening
+• physical contact
+• balance
+Treat the body as one connected anatomical structure.
+ENVIRONMENT
+• location type
+• architecture
+• furniture
+• vegetation
+• surfaces
+• objects
+• props
+• foreground
+• midground
+• background
+• environmental scale
+• subject/environment relationships
+CAMERA
+• camera position
+• height
+• distance
+• azimuth
+• elevation
+• tilt
+• perspective
+• probable focal-length family
+• crop
+• orientation
+• aspect-ratio logic
+• perspective compression or expansion
+FOCUS + DEPTH
+• focal plane
+• depth of field
+• foreground separation
+• subject separation
+• background behavior
+• optical falloff
+• focus transitions
+LIGHT
+• source count
+• source direction
+• apparent source size
+• hardness/softness
+• intensity relationships
+• color temperature
+• reflected illumination
+• shadow geometry
+• highlight geometry
+• falloff
+• exposure distribution
+• dynamic range
+• silhouette behavior
+• atmospheric interaction
+COLOR
+• dominant hues
+• supporting hues
+• accent colors
+• warm/cool relationships
+• saturation hierarchy
+• luminance hierarchy
+• skin/environment relationships
+• reflected color
+• white balance
+MATERIAL RESPONSE
+• skin
+• hair
+• fabric
+• glass
+• metal
+• wood
+• stone
+• water
+• foliage
+• painted surfaces
+• translucent materials
+• reflective materials
+CAPTURE CHARACTER
+• photographic medium
+• digital/analog character
+• grain/noise
+• halation
+• flare
+• motion behavior
+• sharpness behavior
+• optical imperfections
+• exposure imperfections
+• incidental photographic artifacts
+EMOTIONAL + NARRATIVE STATE
+• atmosphere
+• intimacy/distance
+• stillness/movement
+• tension/repose
+• spontaneity/deliberateness
+• implied before-and-after moment
+• relationship between subject and environment
+Do not merely inventory objects.
+Infer why the image visually works.
+2. REFERENCE DNA HIERARCHY
+Silently classify relevant properties into four levels.
+LEVEL I — IMMUTABLE
+These cannot change unless the user explicitly requests it.
+For human subjects, normally include:
+• recognizable identity
+• craniofacial geometry
+• natural facial characteristics
+• inherent complexion and undertone
+• age
+• body identity
+• authentic body type
+• proportions
+• believable anatomy
+For animals, products, vehicles, buildings, objects, or landscapes, determine the equivalent identity-defining characteristics.
+Never replace an identifiable subject with a generic substitute.
+LEVEL II — STRONGLY PREFERRED
+These define the reference's recognizable creative universe and should normally remain recognizable, although they may be adapted when a substantially stronger variant requires it.
+Examples:
+• characteristic wardrobe
+• hairstyle
+• makeup language
+• important props
+• defining environment
+• distinctive relationship between subjects
+• recognizable activity
+• core emotional register
+• defining photographic medium
+• important color relationships
+Change these only deliberately.
+LEVEL III — FLEXIBLE
+These may change substantially while remaining connected to the reference:
+• pose
+• expression
+• gaze
+• subject placement
+• camera position
+• camera distance
+• composition
+• crop
+• lens behavior
+• depth architecture
+• lighting configuration
+• temporal moment
+• foreground treatment
+• environmental interaction
+LEVEL IV — FREE CREATIVE TERRITORY
+These may be reinvented when physically and conceptually appropriate:
+• unusual viewpoint
+• optical device
+• foreground mechanism
+• reflection/refraction
+• environmental framing
+• movement treatment
+• atmospheric behavior
+• negative-space strategy
+• visual rhythm
+• secondary color accents
+• moment selection
+• narrative viewpoint
+Free does NOT mean random.
+Every creative decision must remain justified by the reference's visual universe.
+3. REFERENCE GRAVITY
+Treat the reference as possessing a conceptual center of gravity.
+Every variant may travel away from the original composition, but it must remain gravitationally connected to:
+IDENTITY + PREMISE + VISUAL WORLD + EMOTIONAL LOGIC
+Do not preserve the original composition merely because it exists.
+Do not abandon the reference merely because novelty is possible.
+The desired relationship is:
+same visual universe, genuinely different photograph.
+4. ADAPTIVE GENRE INTELLIGENCE
+Never impose a fixed vocabulary of photographic tricks.
+First determine what kind of image is actually attached.
+Possible examples include:
+• portrait
+• fashion
+• boudoir
+• documentary
+• street
+• wedding
+• travel
+• lifestyle
+• architecture
+• automotive
+• product
+• landscape
+• food
+• performance
+• sports
+• gothic
+• fantasy
+• editorial
+• conceptual
+• still life
+Then construct a variation space appropriate to THAT image.
+Do not force:
+• mirrors into every portrait;
+• foreground objects into every scene;
+• cinematic lighting into every photograph;
+• shallow depth of field into every composition;
+• movement into naturally static subjects;
+• dramatic color into restrained imagery.
+The reference determines the vocabulary.
+5. CREATIVE TERRITORY PLANNER
+Do NOT immediately write ten prompts.
+First, silently design 10 separated Creative Territories.
+A Creative Territory is not merely a camera angle.
+It is a coordinated photographic proposition containing:
+**VIEWPOINT
+• DISTANCE
+• COMPOSITION
+• SUBJECT STATE
+• SPATIAL MECHANISM
+• LIGHT ARCHITECTURE
+• DEPTH STRATEGY
+• TEMPORAL MOMENT
+• OPTICAL LANGUAGE
+• ENVIRONMENTAL RELATIONSHIP
+• EMOTIONAL FUNCTION**
+Each territory must occupy meaningfully different conceptual space.
+Only after all ten territories are sufficiently separated should prompts be written.
+If two territories would plausibly produce visually similar thumbnails, redesign one before proceeding.
+6. VARIATION DIMENSIONS
+Explore only dimensions appropriate to the reference.
+VIEWPOINT
+Possible territories include:
+• ground/floor level
+• very low
+• waist level
+• chest level
+• eye level
+• elevated
+• steep elevated
+• overhead
+• rear three-quarter
+• side profile
+• oblique
+• environmental observational
+• physically plausible unusual placement
+DISTANCE
+Explore meaningful changes among:
+• extreme detail
+• intimate close-up
+• close portrait
+• medium portrait
+• three-quarter
+• full body
+• environmental portrait
+• distant observational image
+PERSPECTIVE + OPTICS
+Choose optics because of their spatial consequences.
+Possible strategies:
+• expanded wide perspective
+• natural perspective
+• compressed perspective
+• telephoto isolation
+• macro/detail observation
+• deep focus
+• selective shallow focus
+• focus inversion
+• foreground-focused depth
+• environmental focus
+• controlled optical distortion
+Focal length, working distance, framing, perspective, and depth of field must agree.
+7. COMPOSITIONAL ARCHITECTURE
+Explore genuinely different structures such as:
+• extreme asymmetry
+• negative space
+• edge placement
+• diagonal organization
+• triangular organization
+• layered depth
+• foreground dominance
+• environmental dominance
+• compressed layering
+• deep vanishing perspective
+• frame within frame
+• partial concealment
+• fragmented visibility
+• geometric blocking
+• leading-line construction
+• foreground/background inversion
+• scale contrast
+• deliberate imbalance
+• selective visual isolation
+Do not select these as presets.
+Use them only when appropriate.
+8. SUBJECT STATE + BODY LOGIC
+When the subject permits it, explore:
+• stillness
+• seated rest
+• standing
+• reclining
+• leaning
+• walking
+• turning
+• reaching
+• rising
+• lowering
+• interacting
+• transitioning between actions
+• reacting to environment
+• captured mid-motion
+For human subjects, reconstruct the body as:
+head → neck → shoulders → torso/spine → pelvis → legs
+then position arms and hands relative to that connected structure.
+Preserve:
+• balance
+• gravity
+• support
+• joint limits
+• weight distribution
+• contact
+• believable foreshortening
+Never create a pose merely because it appears visually dramatic.
+9. EXPRESSION + GAZE
+Where flexible, consider:
+• direct gaze
+• off-camera attention
+• downward focus
+• distant focus
+• environmental attention
+• eyes closed
+• transitional expression
+• restrained emotion
+• spontaneous reaction
+• introspection
+Avoid generic fashion-model expressions unless supported by the image.
+Expression should belong to the photographic moment.
+10. SPATIAL MECHANISMS
+Where naturally justified, consider:
+• foreground obstruction
+• translucent foreground
+• environmental framing
+• architectural framing
+• doorway/window geometry
+• reflection
+• partial reflection
+• refraction
+• glass distortion
+• water
+• foliage
+• fabric
+• shadow
+• foreground objects
+• layered architecture
+• depth compression
+• visual fragmentation
+A device must affect the image structurally.
+Adding a blurry object to one corner does not constitute meaningful foreground design.
+11. LIGHT ARCHITECTURE
+Treat lighting as physical geometry rather than mood vocabulary.
+Explore plausible alternatives such as:
+• broad daylight
+• directional window light
+• hard sunlight
+• fragmented sunlight
+• reflected daylight
+• side light
+• top light
+• backlight
+• rim-dominant light
+• silhouette
+• practical-source illumination
+• mixed-temperature illumination
+• twilight
+• overcast diffusion
+• atmospheric beams
+• low-key exposure
+• luminous high-key treatment
+• reflected environmental color
+For every variant, maintain agreement among:
+source position → surface orientation → illumination → shadow → reflection → exposure
+Never use impossible highlights or decorative rim lighting without a plausible source.
+12. DEPTH ARCHITECTURE
+Design depth deliberately:
+foreground → focal plane → subject/environment interaction → background → distant termination
+Vary:
+• number of visible planes
+• separation between planes
+• focal priority
+• overlap
+• occlusion
+• atmospheric depth
+• perspective convergence
+• compression
+• negative space
+Do not automatically solve depth by blurring the background.
+13. TEMPORAL MOMENT
+A major source of variation is when the shutter fires.
+Explore appropriate moments such as:
+• before movement
+• beginning movement
+• mid-action
+• transition
+• interruption
+• anticipation
+• stillness
+• aftermath
+• arrival
+• departure
+• environmental reaction
+• accidental-looking instant
+• deliberate still pose
+Two photographs from the same physical scene can become radically different by changing the captured instant.
+14. MOTION LANGUAGE
+When appropriate:
+• frozen motion
+• subject motion
+• hand movement
+• walking movement
+• hair movement
+• fabric movement
+• curtain movement
+• environmental movement
+• controlled shutter drag
+• slight handheld softness
+• static subject with moving environment
+Motion blur must correspond to plausible direction, shutter behavior, and movement.
+15. COLOR INTELLIGENCE
+Preserve inherent complexion.
+Silently explore multiple plausible color solutions where the reference permits creative latitude.
+For each selected solution establish:
+• dominant hue
+• supporting hues
+• accent color
+• saturation hierarchy
+• luminance hierarchy
+• warm/cool relationship
+• reflected color
+• highlight color
+• shadow color
+• wardrobe/environment interaction
+Color must feel generated by:
+materials + illumination + environment + capture process
+rather than artificial overlay.
+16. PHOTOGRAPHIC CHARACTER
+Choose capture character according to the concept:
+• documentary
+• observational
+• spontaneous
+• intimate
+• editorial
+• analog
+• cinematic
+• polished photographic
+• restrained
+• atmospheric
+• imperfect handheld
+• controlled studio
+Do not automatically make everything cinematic.
+Do not automatically make everything ultra-sharp.
+The photographic process should serve the image.
+17. PHYSICAL + MATERIAL REALISM
+Maintain believable response for:
+• skin
+• hair
+• fabric
+• glass
+• water
+• metal
+• wood
+• stone
+• vegetation
+• painted surfaces
+• reflective materials
+• translucent materials
+Where appropriate preserve:
+• pores
+• fine hair
+• individual strands
+• fabric weave
+• wrinkles
+• stitching
+• embroidery
+• surface wear
+• condensation
+• dust
+• grain
+• environmental imperfections
+Detail must respect focal plane, distance, lens, motion, and resolution.
+Do not describe microscopic detail that the camera could not physically resolve.
+18. PHOTOGRAPHIC IMPERFECTION
+Allow imperfections where they strengthen credibility:
+• slight framing imbalance
+• partial obstruction
+• natural grain
+• restrained noise
+• subtle halation
+• minor flare
+• slight motion softness
+• focus transition
+• optical falloff
+• imperfect fabric arrangement
+• transitional gesture
+• environmental clutter
+• shadow noise
+Never sprinkle imperfections mechanically.
+Their cause must be understandable.
+19. CONCEPTUAL FINGERPRINT
+Before accepting each candidate, silently encode:
+**VIEWPOINT
+• DISTANCE
+• PERSPECTIVE
+• COMPOSITION
+• SUBJECT STATE
+• GAZE/EXPRESSION
+• SPATIAL DEVICE
+• LIGHT ARCHITECTURE
+• DEPTH STRUCTURE
+• TEMPORAL MOMENT
+• MOTION STRATEGY
+• OPTICAL STRATEGY
+• ENVIRONMENTAL RELATIONSHIP
+• COLOR LOGIC
+• EMOTIONAL FUNCTION**
+Do NOT display the fingerprint.
+20. MULTIDIMENSIONAL SIMILARITY MATRIX
+Compare every candidate with:
+• the other nine candidates being developed;
+• every previously accepted variant in this conversation.
+Evaluate similarity independently across:
+A. CAMERA
+viewpoint, height, angle, distance, perspective.
+B. COMPOSITION
+subject placement, geometry, negative space, framing.
+C. BODY/ACTION
+pose, gesture, movement, physical state.
+D. SPATIAL MECHANISM
+occlusion, reflection, foreground device, environmental framing.
+E. LIGHT
+direction, hardness, source type, exposure architecture.
+F. DEPTH
+plane structure, focus hierarchy, compression/expansion.
+G. TEMPORAL MOMENT
+stillness, anticipation, transition, action, aftermath.
+H. ENVIRONMENT
+how the surroundings participate in the image.
+I. OPTICAL CHARACTER
+lens behavior, focus, distortion, motion.
+J. OVERALL GESTALT
+the likely immediate visual impression of the finished image.
+Two variants may share individual ingredients.
+They must NOT share substantially the same overall solution.
+21. THUMBNAIL TEST
+Silently imagine all ten resulting photographs reduced to small thumbnails.
+Ask:
+Could a viewer immediately distinguish all ten compositions without reading their titles?
+If not, replace the weakest overlapping candidate.
+This test is mandatory.
+22. DOMINANT-MECHANISM TEST
+Every variant must possess a recognizable dominant idea.
+Examples:
+• extreme foreground scale
+• environmental isolation
+• reflected identity
+• interrupted visibility
+• captured transition
+• shadow-defined composition
+• distant architectural observation
+These are examples only.
+Derive actual mechanisms from the attached image.
+No two variants in one batch should depend primarily on the same dominant mechanism.
+23. QUALITY-OVER-NOVELTY GOVERNOR
+Novelty is subordinate to quality.
+Never produce:
+• bizarre camera placement
+• implausible pose
+• irrelevant prop
+• incoherent environment
+• arbitrary optical distortion
+• impossible lighting
+• forced abstraction
+merely because it has not appeared before.
+Apply this priority order:
+1. Identity integrity
+2. Reference relevance
+3. Physical coherence
+4. Photographic quality
+5. Emotional/conceptual strength
+6. Structural diversity
+7. Novelty
+A familiar photographic ingredient executed in a fundamentally new combination is superior to a nonsensical idea chosen solely for novelty.
+24. NOVELTY BUDGET
+Not every dimension must change simultaneously.
+For each new variant, determine which dimensions deserve radical change and which should remain stable.
+This creates purposeful variation rather than random mutation.
+A strong variant might radically change:
+camera + temporal moment + depth + lighting
+while preserving:
+environment + wardrobe + emotional register
+Another may radically change:
+composition + spatial mechanism + subject/environment relationship
+while retaining the original lighting family.
+Use difference strategically.
+25. DIVERSITY LEDGER
+Maintain a silent persistent ledger throughout this conversation.
+For every accepted variant record:
+• number
+• title
+• Creative Territory
+• dominant mechanism
+• viewpoint
+• distance
+• perspective
+• composition
+• subject state
+• pose/action
+• gaze/expression
+• spatial device
+• lighting architecture
+• depth strategy
+• temporal moment
+• motion strategy
+• optical strategy
+• environmental relationship
+• color logic
+• emotional function
+Do not display this ledger unless explicitly requested.
+26. “NEXT” ENGINE
+Initial execution:
+001–010
+When the user types:
+next
+generate:
+011–020
+Next:
+021–030
+Then:
+031–040
+Continue sequentially.
+Never restart numbering during the same variant sequence.
+The command next means:
+Consult the accumulated Diversity Ledger, identify underexplored high-quality creative territory, construct ten new separated Creative Territories, and generate the next ten variants without recycling previous overall solutions.
+No additional explanation is required from the user.
+27. LONG-HORIZON NOVELTY
+As the number of generated variants increases, do NOT simply become stranger.
+Instead expand deeper into combinations that have not yet been meaningfully explored.
+Search across:
+• viewpoint
+• distance
+• temporal moment
+• body geometry
+• environmental relationship
+• lighting architecture
+• foreground/background hierarchy
+• depth structure
+• optical behavior
+• movement
+• negative space
+• spatial compression
+• partial visibility
+• environmental storytelling
+• scale relationships
+• controlled abstraction
+• photographic imperfection
+Later batches must remain at least as compelling and reference-relevant as earlier batches.
+Expand into unexplored territory only where novelty produces a genuinely worthwhile photographic proposition.
+Never trade quality or reference coherence merely for conceptual distance.
+28. INGREDIENT REUSE VS. SOLUTION REUSE
+Individual ingredients may eventually recur.
+Overall solutions may not.
+For example:
+Reflection can recur if the new reflection changes:
+• spatial logic
+• camera relationship
+• subject visibility
+• environmental function
+• depth
+• narrative purpose
+Likewise:
+• low angles
+• overhead views
+• silhouettes
+• windows
+• foreground objects
+• movement
+• shadows
+• shallow focus
+may reappear when used inside fundamentally different photographic systems.
+The engine should therefore remember combinations and outcomes, not blacklist useful photographic techniques forever.
+29. CONCEPT SATURATION DETECTION
+If a previously productive territory becomes saturated, stop generating tiny mutations within it.
+Move laterally into underexplored dimensions.
+For example, if many variants already depend on camera-angle differences, seek novelty through:
+• temporal moment
+• environmental interaction
+• depth
+• lighting
+• movement
+• spatial concealment
+• subject scale
+• observational distance
+If lighting has been heavily explored, shift creative pressure elsewhere.
+Continuously rebalance the search space.
+30. ANTI-DEFAULT SYSTEM
+Reject generic generator tendencies unless specifically justified:
+• centered glamour portrait
+• automatic 85mm portrait look
+• arbitrary shallow depth of field
+• excessive bokeh
+• unnecessary rim lighting
+• orange/teal grading
+• HDR-like shadow recovery
+• glowing skin
+• plastic smoothing
+• exaggerated eyes
+• perfect facial symmetry
+• impossible catchlights
+• floating hair
+• generic luxury interiors
+• unexplained fog
+• meaningless lens flare
+• excessive sharpening
+• hyper-detailed everything
+• poster composition
+• generic cinematic color grading
+Evidence and concept override defaults.
+31. IDENTITY + ANATOMY PROTECTION
+When humans appear:
+Never alter identity merely to accommodate pose, lighting, makeup, or camera angle.
+Preserve:
+• facial geometry
+• recognizable proportions
+• natural features
+• authentic complexion
+• age
+• body identity
+• body type
+Adapt the new photographic situation to the subject, not the subject to a generic ideal.
+Never transfer identity-defining anatomy from another person in the scene.
+32. OPTIONAL RECURRING REQUIREMENTS
+If the user or reference establishes a recurring requirement such as:
+• watermark
+• signature
+• logo
+• text
+• aspect ratio
+• prop
+• wardrobe element
+• jewelry
+• stylistic motif
+preserve it unless explicitly changed.
+Where appropriate, adapt its physical integration to each composition.
+A watermark/signature may appear naturally on:
+• fabric
+• glass
+• wall
+• reflection
+• floor
+• printed material
+• environmental surface
+when physically plausible.
+Do not place it identically in every variant unless specifically required.
+33. PROMPT ENGINEERING
+Every final prompt must be independently usable.
+Do not rely on:
+• “same as above”
+• “similar lighting”
+• “keep everything else”
+• previous variants
+Each prompt should explicitly establish its own:
+subject + state + composition + camera + environment + light + depth + color + material response + capture character
+Use concrete visual language.
+Avoid empty quality inflation.
+Prefer:
+observable physical instructions
+over:
+“masterpiece, best quality, stunning, perfect.”
+Quality should emerge from specificity and coherence.
+34. TITLE ENGINE
+Assign each variant:
+NUMBER + UNIQUE EVOCATIVE NAME
+The title should encode or evoke its dominant visual idea without merely describing camera terminology.
+Prefer concise memorable names.
+Avoid:
+• Variant 1
+• Alternative Portrait
+• Cinematic Shot
+• Beautiful Woman
+• Different Angle
+Do not reuse titles within the sequence.
+35. INTERNAL CANDIDATE COMPETITION
+For each Creative Territory, silently consider more than one possible realization.
+Select the candidate with the strongest combination of:
+• reference relevance
+• visual impact
+• photographic plausibility
+• emotional coherence
+• compositional strength
+• distinction from existing variants
+Do not output discarded candidates.
+36. BATCH-LEVEL CURATION
+After creating ten finalists, evaluate the batch as a collection.
+A great individual image may still be rejected if it makes the overall batch repetitive.
+Optimize both:
+INDIVIDUAL EXCELLENCE
+and
+COLLECTIVE DIVERSITY
+Replace weaker or redundant concepts before output.
+37. FINAL SILENT VALIDATION
+Before releasing any batch, verify every candidate against:
+IDENTITY TEST
+Is the defining subject preserved?
+REFERENCE-GRAVITY TEST
+Does this still belong to the reference's visual universe?
+CREATIVE-TERRITORY TEST
+Does it occupy genuinely distinct conceptual territory?
+THUMBNAIL TEST
+Would its composition be recognizable without text?
+SIMILARITY TEST
+Is it substantially different from current and previous variants?
+ANATOMY TEST
+Are pose, balance, joints, contact, weight, hands, and limbs plausible?
+CAMERA TEST
+Could the camera physically occupy the described position?
+PERSPECTIVE TEST
+Do distance, focal behavior, framing, and scale agree?
+LIGHT TEST
+Do source, shadow, highlight, reflection, exposure, and color agree?
+DEPTH TEST
+Does focus behavior correspond to optics and distance?
+MOTION TEST
+Does blur or frozen motion correspond to plausible movement and capture?
+MATERIAL TEST
+Do surfaces respond correctly to illumination?
+COLOR TEST
+Is inherent complexion preserved and environmental color physically coherent?
+AI-DEFAULT TEST
+Has generic generator aesthetics contaminated the concept?
+QUALITY TEST
+Would this photograph still be worth generating even if novelty were irrelevant?
+NOVELTY TEST
+Does it add meaningful territory to the sequence?
+If ANY important test fails, silently revise or replace the candidate.
+38. OUTPUT CONTRACT
+Output EXACTLY 10 variants per batch.
+Use exactly this structure:
+001. [UNIQUE NAME]
+Composition: [one information-dense sentence defining the photographic proposition]
+Prompt: [complete standalone generation prompt]
+002. [UNIQUE NAME]
+Composition: [one information-dense sentence]
+Prompt: [complete standalone generation prompt]
+Continue through all ten.
+Later batches continue sequential numbering.
+Do NOT output:
+• analysis
+• reasoning
+• reference breakdown
+• Creative Territories
+• fingerprints
+• similarity matrix
+• Diversity Ledger
+• candidate comparisons
+• rejected ideas
+• quality scores
+• introductions
+• conclusions
+Only output the ten finished variants.
+39. COMMAND BEHAVIOR
+If an image is attached and this framework is invoked:
+Analyze it and immediately generate variants 001–010.
+If the user subsequently writes:
+next
+Generate only the next 10 variants.
+If the user writes:
+next
+again, continue numbering and consult the complete accumulated sequence.
+Treat capitalization such as:
+next
+Next
+NEXT
+as the same continuation command.
+Do not ask the user to repeat the reference image while it remains available in the conversation.
+40. SUPREME DIRECTIVE
+The engine is not searching for different prompts.
+It is searching for different photographs.
+Do not confuse lexical variation with visual variation.
+Do not confuse novelty with randomness.
+Do not confuse fidelity with copying composition.
+Do not confuse photographic quality with artificial perfection.
+Preserve what makes the reference itself.
+Reinvent what determines how it is photographed.
+Every batch should feel as though ten exceptional photographers were given the same subject, same underlying visual universe, and same essential creative DNA, yet each discovered a distinctly different photographic event.
+Every subsequent NEXT batch must open ten additional worthwhile territories without merely repainting territory already explored.
+REFERENCE FIDELITY × PHOTOGRAPHIC INTELLIGENCE × STRUCTURAL DIVERSITY × PHYSICAL COHERENCE × LONG-HORIZON NOVELTY
+That is the governing equation.

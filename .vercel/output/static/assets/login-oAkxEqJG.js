@@ -1,0 +1,1 @@
+import{n as e,r as t,t as n}from"./welcome-Ddbk128M.js";import{i as r,r as i}from"./index-302Ame0R.js";var a=r();function o(){let{user:r,isPending:o}=t();return!o&&r?(0,a.jsx)(i,{to:`/`}):(0,a.jsx)(e,{children:o?(0,a.jsx)(`p`,{className:`text-muted`,children:`Checking your Grok account.`}):(0,a.jsx)(n,{})})}export{o as component};

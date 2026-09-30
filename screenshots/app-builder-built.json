@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Ten Frames",
+      "hasCanvas": false,
+      "bodyTextLen": 438,
+      "bodyTextHash": "8ddaf082128829af37f649e4c48580e619bcf23e707294a98502adf70fdb5cc2",
+      "bodyTextPrefix": "Ten Frames Install Ten Frames, then choose any photo from your g",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Ten Frames",
+      "hasCanvas": false,
+      "bodyTextLen": 438,
+      "bodyTextHash": "8ddaf082128829af37f649e4c48580e619bcf23e707294a98502adf70fdb5cc2",
+      "bodyTextPrefix": "Ten Frames Install Ten Frames, then choose any photo from your g",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text changed (202 -> 438 chars, hash mismatch)",
+    "mobile: body text changed (202 -> 438 chars, hash mismatch)"
+  ]
+}
